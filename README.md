@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm **Bahama Sangaré**
 
-Founder of [**Glaxuss Tech**](https://glaxuss.com) 🌟 | Innovator, Builder, and Advocate for Technological Excellence.
+Founder of [**Glaxuss Tech**](https://glaxuss.tech) 🌟 | Innovator, Builder, and Advocate for Technological Excellence.
 
 Welcome to my GitHub profile! Here, I share my work on cutting-edge projects, collaborate with the community, and contribute to the open-source ecosystem. Together, let’s build a better digital future!
 
