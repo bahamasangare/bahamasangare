@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here, I share my work on cutting-edge projects, co
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me / À propos de moi
 
 - 💡 **Founder & Innovator**: Leading [**Glaxuss Tech**](https://glaxuss.com), a forward-thinking company dedicated to crafting impactful technological solutions.  
 - 🌱 **Always Growing**: Passionate about advancing in **AI**, **cloud technologies**, and **scalable systems**.  
@@ -14,17 +14,19 @@ Welcome to my GitHub profile! Here, I share my work on cutting-edge projects, co
 
 ---
 
-## 🌟 Highlights
+## 🌟 Highlights / Points forts
 
 - 🔭 **Currently Working On**:  
   Building next-generation solutions in **cloud computing** and **AI-powered applications**.  
+  / Créer des solutions de nouvelle génération en matière de **cloud computing** et d’**applications basées sur l’IA**.
 
 - 💬 **Let’s Connect**:  
-  Reach out for **collaborations**, **mentorship opportunities**, or to explore the world of **Glaxuss Tech**.
+  Reach out for **collaborations**, **mentorship opportunities**, or to explore the world of **Glaxuss Tech**.  
+  / Contactez-nous pour des **collaborations**, des **opportunités de mentorat** ou pour explorer le monde de **Glaxuss Tech**.
 
 ---
 
-### 📊 Stats
+### 📊 Stats / Statistiques
 
 [![Profile views](https://komarev.com/ghpvc/?username=bahamasangare)](https://github.com/bahamasangare)
 
@@ -35,18 +37,7 @@ Welcome to my GitHub profile! Here, I share my work on cutting-edge projects, co
 
 ---
 
-*🌟 Ready to innovate together? Let's connect and create groundbreaking solutions!* 🚀  
-☕️ *Virtual coffee chats are always welcome too!*
-
-<!---
-- 👋 Hi, I’m @bahamasangare
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-bahamasangare/bahamasangare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*🌟 Ready to innovate together? Let’s connect and create groundbreaking solutions!* 🚀  
+☕️ *Virtual coffee chats are always welcome too!*  
+/ *Prêts à innover ensemble ? Connectons-nous et créons des solutions révolutionnaires !* 🚀  
+☕️ *Les discussions virtuelles autour d'un café sont également toujours les bienvenues !*
