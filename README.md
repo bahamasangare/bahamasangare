@@ -1,4 +1,4 @@
-# 🌟 Bahama SANGARE  
+#  Bahama SANGARE  
 
 **🌐 Full-stack Developer | 🎓 Data Science & Big Data Student**  
 
