@@ -70,7 +70,7 @@
 🌍 **Location**: Nabeul, Tunisia  
 
 ### 🌐 **Social Media**  
-- 🔗 **LinkedIn**: [linkedin.com/in/bahamasangare](https://www.linkedin.com/in/bahamasangare)  
+- 🔗 **LinkedIn**: [linkedin.com/in/bahamasangare](https://www.linkedin.com/in/bahama_sangare)  
 - 🔗 **Facebook**: [facebook.com/BahamaMSANGARE](https://www.facebook.com/BahamaMSANGARE)  
 - 🔗 **Instagram**: [instagram.com/bahama_sangare](https://www.instagram.com/bahama_sangare/profilecard/)  
 
