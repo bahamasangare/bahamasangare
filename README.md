@@ -1,30 +1,43 @@
-# 👋 Hi there! I'm **Bahama Sangaré**
 
-Founder of [**Glaxuss Tech**](https://glaxuss.tech) 🌟 | Innovator, Builder, and Advocate for Technological Excellence.
+# Bahama SANGARE  
+**Full-stack Developer | Data Science & Big Data Student**  
 
-Welcome to my GitHub profile! Here, I share my work on cutting-edge projects, collaborate with the community, and contribute to the open-source ecosystem. Together, let’s build a better digital future!
+🌟 Passionate about web and mobile application development, with expertise in dropshipping platforms and CRM solutions.  
+💡 Active in training, IT coaching, and entrepreneurial development.
 
----
+## 🌐 Projects  
 
-## 🚀 About Me / À propos de moi
+### 🚀 **Professional Projects**  
+- **[Glaxuss.tech](https://glaxuss.tech)**: Platform for the *Glaxuss Tech* startup.  
+- **[2CLB.org](https://2clb.org)**: Platform for the 2CLB firm in Mali.  
+- **[Toutici.tn](https://toutici.tn)**: E-commerce dropshipping website developed during an internship.  
+- **[Ahlabik.tn](https://ahlabik.tn)**: Dropshipping platform for the *Ahlabik* startup in Tunisia (*under development*).  
+- **[wp.mit.tn](https://wp.mit.tn)**: Website redesign for the MIT Foundation, transitioning from Django to WordPress.  
+- **[Digitalpara.tn](https://digitalpara.tn)**: Freelance collaboration on an e-commerce platform with *Viore Digital*.  
+- **[TSA - Tourism Skylls Academy](https://tsa.ahlabik.tn)**: Dynamic CRM designed to manage clients, bookings, and operations for *Tourism Skylls Academy*.  
 
-- 💡 **Founder & Innovator**: Leading [**Glaxuss Tech**](https://glaxuss.com), a forward-thinking company dedicated to crafting impactful technological solutions.  
-- 🌱 **Always Growing**: Passionate about advancing in **AI**, **cloud technologies**, and **scalable systems**.  
-- 🤝 **Collaborations Welcome**: Open to discussions, partnerships, and projects that push boundaries.  
+### 🛠 **Technical Projects**  
+- **Sky Mali**: Mobile application for booking flight tickets for a private Malian airline, developed using Flutter.  
 
----
+### 💡 **Personal and Academic Projects**  
+- Conducted various training sessions in IT and entrepreneurship, including the design and development of web and mobile projects.
 
-## 🌟 Highlights / Points forts
+## 🛠 Skills  
+- **Web Development**: Laravel, React, Django, Spring Boot.  
+- **Mobile Development**: Flutter.  
+- **Databases**: SQL, PostgreSQL, MongoDB.  
+- **Graphic Design**: Photoshop, video editing.  
+- **Training & Coaching**: Personal development, office tools.  
 
-- 🔭 **Currently Working On**:  
-  Building next-generation solutions in **cloud computing** and **AI-powered applications**.  
-  / Créer des solutions de nouvelle génération en matière de **cloud computing** et d’**applications basées sur l’IA**.
+## 🏆 Highlights  
+- Expertise in creating e-commerce platforms (dropshipping).  
+- Design of custom CRM solutions.  
+- Freelance collaboration and teamwork.  
 
-- 💬 **Let’s Connect**:  
-  Reach out for **collaborations**, **mentorship opportunities**, or to explore the world of **Glaxuss Tech**.  
-  / Contactez-nous pour des **collaborations**, des **opportunités de mentorat** ou pour explorer le monde de **Glaxuss Tech**.
+## 📬 Contact  
+- Email: [bahamasangare99@gmail.com](mailto:bahamasangare99@gmail.com)  
+- Phone: +216 58 914 579  
 
----
 
 ### 📊 Stats / Statistiques
 
