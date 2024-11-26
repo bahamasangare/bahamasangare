@@ -29,11 +29,11 @@
 ## 🛠 **Skills**  
 | **Category**          | **Technologies & Tools**                       |
 |------------------------|-----------------------------------------------|
-| **Web Development**    | Laravel, React, Django, Spring Boot           |
-| **Mobile Development** | Flutter                                       |
-| **Databases**          | SQL, PostgreSQL, MongoDB                      |
-| **Graphic Design**     | Photoshop, Video Editing                      |
-| **Training & Coaching**| Personal Development, Office Tools            |
+| **Web Development**    | Laravel, React, Django, Spring Boot, ...      |
+| **Mobile Development** | Flutter, ...                                  |
+| **Databases**          | SQL, PostgreSQL, MongoDB, ...                 |
+| **Graphic Design**     | Photoshop, Video Editing, ...                 |
+| **Training & Coaching**| Personal Development, Office Tools, ...       |
 
 ---
 
@@ -48,16 +48,15 @@
 
 <p align="center">
   <a href="https://github.com/bahamasangare">
-    <img src="https://komarev.com/ghpvc/?username=bahamasangare&style=flat-square&color=blue" alt="Profile Views" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bahamasangare&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
   </a>
   <a href="https://github.com/bahamasangare">
-    <img src="https://github-readme-stats.vercel.app/api?username=bahamasangare&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahamasangare&theme=tokyonight" alt="GitHub Streak" width="45%" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/bahamasangare">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahamasangare&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/bahamasangare">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahamasangare&hide_border=true&layout=donut-vertical&langs_count=5&theme=tokyonight" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahamasangare&hide_border=true&layout=compact&langs_count=5&theme=tokyonight" alt="Most Used Languages" />
   </a>
 </p>
 
@@ -70,7 +69,7 @@
 🌍 **Location**: Nabeul, Tunisia  
 
 ### 🌐 **Social Media**  
-- 🔗 **LinkedIn**: [linkedin.com/in/bahamasangare](https://www.linkedin.com/in/bahama_sangare)  
+- 🔗 **LinkedIn**: [linkedin.com/in/bahama-sangare](https://www.linkedin.com/in/bahama-sangare)  
 - 🔗 **Facebook**: [facebook.com/BahamaMSANGARE](https://www.facebook.com/BahamaMSANGARE)  
 - 🔗 **Instagram**: [instagram.com/bahama_sangare](https://www.instagram.com/bahama_sangare/profilecard/)  
 
