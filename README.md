@@ -1,78 +1,83 @@
-#  Bahama SANGARE  
-
-**🌐 Full-stack Developer | 🎓 Data Science & Big Data Student**  
-
----
-
-🌟 Passionate about creating impactful web and mobile applications, with expertise in dropshipping platforms and CRM solutions.  
-💡 Committed to IT coaching, training, and fostering entrepreneurial innovation.
-
----
-
-## 🌐 **Featured Projects**  
-
-### 🚀 **Professional Projects**  
-- **[Glaxuss.tech](https://glaxuss.tech)**: Platform for the *Glaxuss Tech* startup.  
-- **[2CLB.org](https://2clb.org)**: Platform for the 2CLB firm in Gabon.  
-- **[Toutici.tn](https://toutici.tn)**: E-commerce dropshipping platform developed during an internship.  
-- **[Ahlabik.tn](https://ahlabik.tn)**: Dropshipping platform for the *Ahlabik* startup in Tunisia (*under development*).  
-- **[AESAT.org](https://aesat.org)**: Platform for the African Students and Trainees Association in Tunisia (AESAT).  
-- **[wp.mit.tn](https://wp.mit.tn)**: Redesigned the MIT Foundation’s website from Django to WordPress.  
-- **[Digitalpara.tn](https://digitalpara.tn)**: Freelance collaboration on an e-commerce platform with *Viore Digital*.  
-- **[TSA - Tourism Skylls Academy](https://tsa.ahlabik.tn)**: Dynamic CRM for managing clients, bookings, and operations.  
-
-### 🛠 **Technical Projects**  
-- **Sky Mali**: Mobile application for booking flights for a private Malian airline, developed with Flutter.  
-
----
-
-## 🛠 **Skills**  
-| **Category**          | **Technologies & Tools**                       |
-|------------------------|-----------------------------------------------|
-| **Web Development**    | Laravel, React, Django, Spring Boot, ...      |
-| **Mobile Development** | Flutter, ...                                  |
-| **Databases**          | SQL, PostgreSQL, MongoDB, ...                 |
-| **Graphic Design**     | Photoshop, Video Editing, ...                 |
-| **Training & Coaching**| Personal Development, Office Tools, ...       |
-
----
-
-## 💡 **Key Achievements**  
-✔️ Built scalable e-commerce platforms (dropshipping).  
-✔️ Developed custom CRM systems for businesses.  
-✔️ Collaborated with diverse teams as a freelancer and trainer.  
-
----
-
-## 📊 **GitHub Stats**  
+<h1 align="center">Hi, I'm Bahama Sangaré 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/bahamasangare">
-    <img src="https://github-readme-stats.vercel.app/api?username=bahamasangare&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
-  </a>
-  <a href="https://github.com/bahamasangare">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahamasangare&theme=tokyonight" alt="GitHub Streak" width="45%" />
-  </a>
+  <img src="https://user-badge.committers.top/mali/bahamasangare.svg" alt="Committers Top Badge"/>
 </p>
+
 <p align="center">
-  <a href="https://github.com/bahamasangare">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahamasangare&hide_border=true&layout=compact&langs_count=5&theme=tokyonight" alt="Most Used Languages" />
-  </a>
+  <strong>Full-stack Developer | Data Science & Big Data Graduate</strong><br>
+  Building impactful digital products across Africa and beyond.
 </p>
 
 ---
 
-## 📬 **Contact & Social Media**  
+## 🚀 Featured Projects
 
-📧 **Email**: [bahamasangare99@gmail.com](mailto:bahamasangare99@gmail.com)  
-📞 **Phone**: +216 58 914 579  
-🌍 **Location**: Nabeul, Tunisia  
+### 🌍 Web & Enterprise Platforms
+| Project | Description |
+|--------|-------------|
+| 🌐 [Glaxuss.tech](https://glaxuss.tech) | Official platform of the Glaxuss Tech startup. |
+| 🌐 [2CLB.org](https://2clb.org) | Legal and fiscal advisory platform in Gabon. |
+| 🛒 [Toutici.tn](https://toutici.tn) | E-commerce dropshipping platform. |
+| 🛒 [Ahlabik.tn](https://ahlabik.tn) | Multi-vendor marketplace (in progress). |
+| 🌐 [AESAT.org](https://aesat.org) | Student association portal (AESAT Tunisia). |
+| 🔁 [wp.mit.tn](https://wp.mit.tn) | Migration from Django to WordPress for MIT Foundation. |
+| 🛍️ [Digitalpara.tn](https://digitalpara.tn) | Freelance collaboration on e-commerce project. |
+| 🧭 [TSA CRM](https://tsa.ahlabik.tn) | Custom CRM for tourism training company. |
+| 🌍 [Marena ERP](https://marena.zehawitech.com) | Commercial ERP for Marena Trading Group (5 countries). |
+| 🏢 [Cameroon Print ERP](https://imprimerienationale.zehawitech.com) | ERP for the National Printing Office of Cameroon. |
 
-### 🌐 **Social Media**  
-- 🔗 **LinkedIn**: [linkedin.com/in/bahama-sangare](https://www.linkedin.com/in/bahama-sangare)  
-- 🔗 **Facebook**: [facebook.com/BahamaMSANGARE](https://www.facebook.com/BahamaMSANGARE)  
-- 🔗 **Instagram**: [instagram.com/bahama_sangare](https://www.instagram.com/bahama_sangare/profilecard/)  
+### 📱 Mobile Apps
+- ✈️ **Sky Mali** – Flight booking app for a private airline
+- 🛒 **IYA Store** – Supabase-based multi-store mobile commerce
+- 🛍️ **Suguba** – Marketplace with subscription & referral system
 
 ---
 
-✨ *Feel free to explore my repositories and connect with me on social media!*  
+## 🧰 Tech Stack
+
+| Area             | Tools & Frameworks                                      |
+|------------------|----------------------------------------------------------|
+| 🌐 Web Dev        | Laravel, React, Django, WordPress, Spring Boot           |
+| 📱 Mobile         | Flutter, Firebase, Supabase                              |
+| 🗄️ Databases      | PostgreSQL, MySQL, MongoDB                               |
+| 🎨 UI & Media     | Figma, Adobe Photoshop, Premiere                         |
+| 🧑‍🏫 Training      | Office Suite, NoCode tools, IT coaching                  |
+
+---
+
+## 📌 Key Milestones
+
+✅ Delivered digital solutions for startups, ministries, and NGOs  
+✅ Built e-commerce platforms and custom CRMs across Africa  
+✅ Active contributor, trainer & mentor for digital entrepreneurs  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bahamasangare&count_private=true&show_icons=true&theme=gruvbox" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahamasangare&theme=gruvbox" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahamasangare&layout=compact&theme=gruvbox" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+| Platform  | Link |
+|-----------|------|
+| 📧 Email  | [bahamasangare99@gmail.com](mailto:bahamasangare99@gmail.com) |
+| 📞 Phone (Tunisia) | +216 58 914 579 |
+| 📞 Phone (Mali) | +223 83 83 97 05 |
+| 📍 Location | Tunis, Tunisia |
+| 💼 LinkedIn | [linkedin.com/in/bahama-sangare](https://linkedin.com/in/bahama-sangare) |
+| 🌐 Facebook | [facebook.com/BahamaMSANGARE](https://facebook.com/BahamaMSANGARE) |
+| 📸 Instagram | [@bahama_sangare](https://instagram.com/bahama_sangare) |
+
+---
+
+<p align="center"><i>Let’s build the future of digital Africa together. Feel free to connect!</i></p>
